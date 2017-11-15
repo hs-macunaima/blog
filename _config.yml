@@ -1,6 +1,6 @@
 # Site settings
 title: Macunaima
-description: "Hackerspace Macunaima -- #macunaima (Freenode)"
+description: "Hackerspace"
 url: "https://hs-macunaima.github.io"
 
 
@@ -8,9 +8,9 @@ url: "https://hs-macunaima.github.io"
 
 # Secondary Parameters
 baseurl: "/blog"
-header-img: img/home-bg.jpg
+header-img: img/home-bg1.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /project-pages/img/logos/brasil-wiki.png
 
 # Tertiary Parameters
 github_username:  hs-macunaima
