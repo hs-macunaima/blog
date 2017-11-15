@@ -8,9 +8,9 @@ url: "https://hs-macunaima.github.io"
 
 # Secondary Parameters
 baseurl: "/blog"
-header-img: img/home-bg1.jpg
-headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/brasil-wiki.png
+header-img: img/home-bg2.jpg
+headercolor: "#000000"
+logo: img/logos/brasil-wiki.png
 
 # Tertiary Parameters
 github_username:  hs-macunaima
@@ -36,7 +36,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/home-bg.jpg"
+      header-img: "img/home-bg2.jpg"
 
 # Prose Settings
 prose:
