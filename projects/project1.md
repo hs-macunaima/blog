@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Project 1"
+title: "Arduino"
 description: "Description of Project #1"
-category: project1
+category: Arduino
 ---
